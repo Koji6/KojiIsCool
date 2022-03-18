@@ -1,6 +1,6 @@
 -  Hi, I’m Story
 -  I’m interested in learning more about linux
--  I’m currently learning 7th grade math :skull:
+-  I’m currently learning how to rice :skull:
 -  Koji#1001
 
 <!---
