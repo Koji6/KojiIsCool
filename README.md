@@ -1,4 +1,4 @@
--  Hi, I’m Story
+-  Hi, I’m Koji
 -  I’m interested in learning more about linux
 -  I’m currently learning how to rice :skull:
 -  Koji#1001
